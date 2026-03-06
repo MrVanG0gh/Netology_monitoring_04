@@ -55,6 +55,6 @@ stack trace:
 
 ## Решение 3
 Почтовое сообщение-оповещение от sentry:
-![Screen04](https://github.com/MrVanG0gh/Netology_monitoring_04/blob/main/Screens/Screen04.png)
+![Screen04](https://github.com/MrVanG0gh/Netology_monitoring_04/blob/main/Screens/Screen04-1.png)
 ![Screen05](https://github.com/MrVanG0gh/Netology_monitoring_04/blob/main/Screens/Screen05-2.png)
 ---
