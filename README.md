@@ -54,6 +54,7 @@ stack trace:
 6. Дополнительно поэкспериментируйте с правилами алёртинга. Выбирайте разные условия отправки и создавайте sample events. 
 
 ## Решение 3
+
 Почтовое сообщение-оповещение от sentry:
 ![Screen04](https://github.com/MrVanG0gh/Netology_monitoring_04/blob/main/Screens/Screen04-1.png)
 ![Screen05](https://github.com/MrVanG0gh/Netology_monitoring_04/blob/main/Screens/Screen05-2.png)
